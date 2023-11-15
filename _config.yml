@@ -21,7 +21,7 @@
 title: Malleable Software LLC
 email: malleablesoft@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-	Malleable Software is a leading multimodal AI/ML software company.
+       Malleable Software is a leading multimodal AI/ML software company.
 domain: jinpyokim.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jinpyokim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
