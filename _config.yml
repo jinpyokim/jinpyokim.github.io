@@ -18,18 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Malleable Software LLC
-email: malleablesoft@gmail.com
+title: Jinpyo Kim's homepage
+email: jinpyo.kim@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-       Malleable Software is a leading multimodal AI/ML software company.
+       Jinpyo's homepage. Stay tuned.
 domain: jinpyokim.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jinpyokim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: malleablesoft
-github_username: malleablesoft 
+
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
