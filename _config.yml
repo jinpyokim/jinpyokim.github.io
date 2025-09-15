@@ -28,7 +28,9 @@ url: "https://jinpyokim.github.io" # the base hostname & protocol for your site,
 
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
+markdown: kramdown
+highlighter: rouge
 plugins:
   - jekyll-feed
 
