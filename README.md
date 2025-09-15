@@ -4,3 +4,5 @@ My name is Jinpyo Kim who is a founder of malleable software LLC.
 I am currently working a multimodal AI software for AI/robot era.
 
 Stay tuned.
+
+9/15/25 (Mon): README added.
